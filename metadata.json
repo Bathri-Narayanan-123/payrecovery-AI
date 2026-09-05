@@ -1,0 +1,6 @@
+{
+  "name": "PayRecover AI",
+  "description": "AI-powered Revenue Recovery Agent for merchants. Detects failed payments, evaluates recovery probability with Gemini AI, enforces safety policies, and automates revenue recovery actions with an auditable trail.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
